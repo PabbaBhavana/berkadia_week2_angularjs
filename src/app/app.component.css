@@ -1,0 +1,9 @@
+.gallery{
+    border:10px solid rgb(206,19,19);
+    padding-left: 60px;
+    padding-bottom: 300px;
+    padding-right: 60px;
+}
+h1{
+    text-align: center;
+}
